@@ -1,13 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-755-writing-and-reading-short-stories-spring-2012/2334324434a60127d8b82788a77b81d9_21W-755_stat-students.png.png
+file: /media/courses/21w-755-writing-and-reading-short-stories-spring-2012/2334324434a60127d8b82788a77b81d9_21W-755_stat-students.png.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 21W-755_stat-students.png.png
+type: OCWImage
 uid: 23343244-34a6-0127-d8b8-2788a77b81d9
 ---

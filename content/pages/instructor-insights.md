@@ -1,7 +1,9 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
 title: Instructor Insights
+type: ThisCourseAtMITSection
 uid: 59404c9b-a87e-a4a8-9b61-bdb2a920ae41
 ---
 
@@ -58,20 +60,6 @@ Curriculum Information
 ### Offered
 
 Every fall and spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Image of a classroom with windows on the right, a chalkboard on the left,and a large center table in the middle.]({{< resource_file d52f6fe3-c8c1-cb2c-5038-a0a7c442a502 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png) 
-    
-    ### Seminar
-    
-    This course is typically taught in a seminar room with a large conference table.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

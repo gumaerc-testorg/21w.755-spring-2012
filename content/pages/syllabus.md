@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Syllabus
+type: CourseSection
 uid: 53301f6b-7d74-9e0a-5cb6-87b9747f89da
 ---
 
@@ -41,9 +43,9 @@ All work produced for this class will be collected into a portfolio at the end o
 Major Assignment Due Dates
 --------------------------
 
-1st Version of Story 1 is due on **Ses #10**.
+1{{< sup "st" >}} Version of Story 1 is due on **Ses #10**.
 
-1st Version of Story 2 is due on **Ses #18**.
+1{{< sup "st" >}} Version of Story 2 is due on **Ses #18**.
 
 REVISED versions of Story 1 is due on **Ses #22**.
 
