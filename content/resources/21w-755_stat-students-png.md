@@ -8,10 +8,11 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 59404c9b-a87e-a4a8-9b61-bdb2a920ae41
 resourcetype: Image
 title: 21W-755_stat-students.png.png
-type: OCWImage
 uid: 23343244-34a6-0127-d8b8-2788a77b81d9
 ---

@@ -5,10 +5,11 @@ file: /media/courses/21w-755-writing-and-reading-short-stories-spring-2012/8d51e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cd406018-7c26-7e88-95fb-db929c4186f6
 resourcetype: Document
 title: Point of View Exercise
-type: OCWFile
 uid: 8d51eb4e-c0a3-c114-9c89-3d241b039aa0
 ---

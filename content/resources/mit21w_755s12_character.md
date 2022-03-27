@@ -5,10 +5,11 @@ file: /media/courses/21w-755-writing-and-reading-short-stories-spring-2012/cb18d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cd406018-7c26-7e88-95fb-db929c4186f6
 resourcetype: Document
 title: Character Exercises
-type: OCWFile
 uid: cb18d531-08d2-c990-1427-ea132b8d75eb
 ---

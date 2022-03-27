@@ -5,10 +5,11 @@ file: /media/courses/21w-755-writing-and-reading-short-stories-spring-2012/66676
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0a37dbb1-bccb-81b1-2862-835832b7da00
 resourcetype: Document
 title: Workshops
-type: OCWFile
 uid: 666769dd-1269-2704-2104-05a3e263494d
 ---

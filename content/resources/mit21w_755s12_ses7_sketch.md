@@ -6,10 +6,11 @@ file: /media/courses/21w-755-writing-and-reading-short-stories-spring-2012/b86c6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0a37dbb1-bccb-81b1-2862-835832b7da00
 resourcetype: Document
 title: 'Session 7: Character Creation/Sketch'
-type: OCWFile
 uid: b86c67d5-8c69-de5f-fd9d-9055e6d89c01
 ---

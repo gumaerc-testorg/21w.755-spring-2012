@@ -6,10 +6,11 @@ file: /media/courses/21w-755-writing-and-reading-short-stories-spring-2012/80f9e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0a37dbb1-bccb-81b1-2862-835832b7da00
 resourcetype: Document
 title: 'Session 3: The Seeds of Story'
-type: OCWFile
 uid: 80f9e0e3-3381-c0ea-1ac2-e9d2d0cc45e6
 ---
