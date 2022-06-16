@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the instructions for the writing assignments for
+  the course along with writing exercises on character and point of view.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -17,6 +19,6 @@ Writing Exercises
 
 Students will also complete a series of exercises in the techniques we will discuss in class. These exercises are designed to give students an opportunity to focus on different elements of fiction and to practice in those particular areas out of context.
 
-[Character Exercises (PDF)]({{< baseurl >}}/resources/mit21w_755s12_character)
+{{% resource_link cb18d531-08d2-c990-1427-ea132b8d75eb "Character Exercises (PDF)" %}}
 
-[Point of View Exercise (PDF)]({{< baseurl >}}/resources/mit21w_755s12_pov)
+{{% resource_link 8d51eb4e-c0a3-c114-9c89-3d241b039aa0 "Point of View Exercise (PDF)" %}}
