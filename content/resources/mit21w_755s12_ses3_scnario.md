@@ -6,6 +6,7 @@ file: /courses/21w-755-writing-and-reading-short-stories-spring-2012/96f00c113bd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Potential Scenarios
 uid: 96f00c11-3bd1-211e-8583-3f10b35104e8
 ---
 This resource contains information regarding biography, slice of life, and the use of real life in creating a story.
-

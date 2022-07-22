@@ -6,6 +6,7 @@ file: /courses/21w-755-writing-and-reading-short-stories-spring-2012/80f9e0e3338
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Session 3: The Seeds of Story'
 uid: 80f9e0e3-3381-c0ea-1ac2-e9d2d0cc45e6
 ---
 This resource contains information regarding biography, slice of life, and the use of real life in creating a story 2.
-

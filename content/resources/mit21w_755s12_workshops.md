@@ -5,6 +5,7 @@ file: /courses/21w-755-writing-and-reading-short-stories-spring-2012/666769dd126
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Workshops
 uid: 666769dd-1269-2704-2104-05a3e263494d
 ---
 This resource contains information regarding workshops
-
