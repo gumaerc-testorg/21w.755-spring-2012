@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course and information
+  on meeting times, readings, assignments, textbooks, attendance, deadlines, grading,
+  format, originality, genre, laptop policy, plagiarism, and the schedule of lecture
+  topics and assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 53301f6b-7d74-9e0a-5cb6-87b9747f89da
 ---
@@ -41,9 +47,9 @@ All work produced for this class will be collected into a portfolio at the end o
 Major Assignment Due Dates
 --------------------------
 
-1st Version of Story 1 is due on **Ses #10**.
+1{{< sup "st" >}} Version of Story 1 is due on **Ses #10**.
 
-1st Version of Story 2 is due on **Ses #18**.
+1{{< sup "st" >}} Version of Story 2 is due on **Ses #18**.
 
 REVISED versions of Story 1 is due on **Ses #22**.
 

@@ -1,19 +1,21 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 59404c9b-a87e-a4a8-9b61-bdb2a920ae41
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _21W.755 Writing and Reading Short Stories_ as it was taught by Shariann Lewitt in Spring 2012.
 
 This is a course in writing the short story, and it is also intended as an introduction to writing fiction generally. As such, it serves students who are exploring their interest in fiction, but may have no prior experience, and may discover that they prefer reading to writing, or non-fiction to fiction. All students learn what writing fiction requires, and some of the ways writers approach texts, as opposed to the methods of critics and scholars with which they may be more familiar.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -27,10 +29,9 @@ Some students decide that their love of fiction led them more toward reading and
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
-Below, Shariann Lewitt describes various aspects of how she teaches _21W.755 Writing and Reading Short Stories._
+_Below, Shariann Lewitt describes various aspects of how she teaches_ 21W.755 Writing and Reading Short Stories_._
 
 ### Course Development & Organization
 
@@ -52,33 +53,19 @@ I used the contract grading method to encourage students to take risks. I didnâ€
 
 I used the portfolio form of assessment because learning in this practice is cumulative. I wanted to encourage students to keep applying new knowledge to their work, to keep refining their projects, and to feel encouraged to improve their stories as they gained new insights. In the real world writers are permitted to rewrite and improve their work until it goes to copy edit/page proof, and I felt that students should work under the same conditions professional writers do.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Offered
 
 Every fall and spring semester
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Image of a classroom with windows on the right, a chalkboard on the left,and a large center table in the middle.]({{< resource_file d52f6fe3-c8c1-cb2c-5038-a0a7c442a502 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png) 
-    
-    ### Seminar
-    
-    This course is typically taught in a seminar room with a large conference table.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Student Information
--------------------
+## Student Information
 
-![18 students]({{< resource_file 23343244-34a6-0127-d8b8-2788a77b81d9 >}})
+### Enrollment
+
+18 students
 
 ### Breakdown by Year
 
@@ -96,37 +83,33 @@ The enrollment cap is eighteen. Eighteen can be a bit unwieldy for this class, b
 
 The ideal class size is 6-12. More than 12 and we have to split into two groups to workshop every story, which means that I cannot participate as a full workshop member for every workshop (I have to split my time and attention between both groups). Fewer than six and discussions/workshops become a bit too prone to groupthink.
 
-Assessment
-----------
+## Assessment
 
 I use what is called "contract grading," which means that each student and I agree on the following contract.
 
 You will be guaranteed to receive at least a B in this class if you do the following:
 
-*   Attend class regularly
-*   Do all assignments and exercises seriously, with the full weight of your consideration, and on time
-*   Come to class prepared
-*   Participate actively in the workshop process, giving full and thoughtful responses to your classmates' work.
+- Attend class regularly
+- Do all assignments and exercises seriously, with the full weight of your consideration, and on time
+- Come to class prepared
+- Participate actively in the workshop process, giving full and thoughtful responses to your classmates' work.
 
 The requirements to earn an A are harder to quantify, but they include more sophistication and grace in the writing, lively storytelling, and prose that approaches publishable quality.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class/Lecture
-----------------
+### In Class / Lecture
 
-*   Met 2 times per week for 1.5 hours per session; 26 sessions total; mandatory attendance
-*   The first seven weeks of class were a mix of lecture and discussion (about 50% lecture, 30% discussion, and 20% exercises). As an introductory class, I must assume students know very little about how stories are put together or about any of the techniques writers use. So I lectured, then we discussed the assigned stories so that students could see how great writers have created characters, plots, settings, and emotional impact using the techniques explained in the lectures. Then we did exercises so that they could attempt to use a specific technique themselves.
-*   The last half of the class was devoted almost entirely to workshop, with a few mini-lectures thrown in if I felt a particular topic merited particular attention. Workshop is the most valuable tool writers have and we never stop workshopping, even as professionals. I taught workshop technique, and then we workshopped all the assigned stories for the class.
+- Met 2 times per week for 1.5 hours per session; 26 sessions total; mandatory attendance
+- The first seven weeks of class were a mix of lecture and discussion (about 50% lecture, 30% discussion, and 20% exercises). As an introductory class, I must assume students know very little about how stories are put together or about any of the techniques writers use. So I lectured, then we discussed the assigned stories so that students could see how great writers have created characters, plots, settings, and emotional impact using the techniques explained in the lectures. Then we did exercises so that they could attempt to use a specific technique themselves.
+- The last half of the class was devoted almost entirely to workshop, with a few mini-lectures thrown in if I felt a particular topic merited particular attention. Workshop is the most valuable tool writers have and we never stop workshopping, even as professionals. I taught workshop technique, and then we workshopped all the assigned stories for the class.
 
-Out of Class
-------------
+### Out of Class
 
-*   Reading published works and all works by fellow students submitted for workshop.
+- Reading published works and all works by fellow students submitted for workshop.
 
 Writing, including three pieces to be submitted for workshop, which were revised based on class discussion and written feedback, with final drafts turned in at the end of term.
