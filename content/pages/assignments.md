@@ -1,7 +1,5 @@
 ---
 content_type: page
-description: This section provides the instructions for the writing assignments for
-  the course along with writing exercises on character and point of view.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
