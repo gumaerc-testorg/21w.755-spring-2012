@@ -34,7 +34,9 @@
   },
   "course_title": "Writing and Reading Short Stories",
   "course_description": "This course is an introduction to the short story. Students will write stories and short descriptive sketches. Students will read great short stories and participate in class discussions of students' writing and the assigned stories in their historical and social contexts.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "21W.757",
   "primary_course_number": "21W.755",
   "course_image_thumbnail": {
@@ -43,8 +45,10 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "225cf21d-a5eb-40ff-9b78-f770d2d653ef",
+  "site_uid": "81851f1a-be66-4e06-a02d-09ae86ceea85",
+  "site_short_id": "21w.755-spring-2012",
   "title": "Course Metadata"
 }
