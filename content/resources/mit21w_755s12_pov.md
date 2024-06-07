@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Point of View Exercise.
 file: /courses/21w-755-writing-and-reading-short-stories-spring-2012/8d51eb4ec0a3c1149c893d241b039aa0_MIT21W_755S12_pov.pdf
+file_size: 556738
 file_type: application/pdf
 learning_resource_types:
 - Assignments
