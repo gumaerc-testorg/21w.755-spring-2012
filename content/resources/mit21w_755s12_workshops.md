@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding workshops
-file: /courses/21w-755-writing-and-reading-short-stories-spring-2012/666769dd12692704210405a3e263494d_MIT21W_755S12_workshops.pdf
+file: /ol-ocw-studio-app/courses/21w-755-writing-and-reading-short-stories-spring-2012/666769dd12692704210405a3e263494d_MIT21W_755S12_workshops.pdf
 file_size: 503844
 file_type: application/pdf
 learning_resource_types:
