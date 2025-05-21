@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21w-755-writing-and-reading-short-stories-spring-2012/2334324434a60127d8b82788a77b81d9_21W-755_stat-students.png.png
+file: /courses/21w-755-writing-and-reading-short-stories-spring-2012/2334324434a60127d8b82788a77b81d9_21W-755_stat-students.png.png
 file_size: 2865
 file_type: image/png
 image_metadata:
