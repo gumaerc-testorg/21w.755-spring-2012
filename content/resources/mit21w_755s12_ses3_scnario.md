@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding biography, slice of life,
   and the use of real life in creating a story.
-file: /courses/21w-755-writing-and-reading-short-stories-spring-2012/96f00c113bd1211e85833f10b35104e8_MIT21W_755S12_ses3_scnario.pdf
+file: /ol-ocw-studio-app/courses/21w-755-writing-and-reading-short-stories-spring-2012/96f00c113bd1211e85833f10b35104e8_MIT21W_755S12_ses3_scnario.pdf
 file_size: 497958
 file_type: application/pdf
 learning_resource_types:
